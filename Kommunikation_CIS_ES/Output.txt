@@ -1,0 +1,2188 @@
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-257
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 005
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 010
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-266
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 009
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 014
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 013
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 014
+Y-Achse: 005
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 004
+Z-Achse:-267
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-263
+X-Achse: 014
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-259
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 010
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 004
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 006
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-265
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 012
+Z-Achse:-258
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 009
+Z-Achse:-255
+X-Achse: 017
+Y-Achse: 012
+Z-Achse:-267
+X-Achse: 013
+Y-Achse: 007
+Z-Achse:-264
+X-Achse: 019
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-260
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 012
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 010
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-259
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 004
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 010
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 008
+Y-Achse: 003
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-260
+X-Achse: 014
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 018
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 018
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-258
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-259
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-259
+X-Achse: 014
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-268
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 011
+Z-Achse:-266
+X-Achse: 014
+Y-Achse: 003
+Z-Achse:-264
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-259
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 014
+Y-Achse: 006
+Z-Achse:-263
+X-Achse: 014
+Y-Achse: 001
+Z-Achse:-262
+X-Achse: 013
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 011
+Z-Achse:-256
+X-Achse: 015
+Y-Achse: 005
+Z-Achse:-261
+X-Achse: 018
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-266
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 006
+Z-Achse:-266
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 006
+Z-Achse:-263
+X-Achse: 018
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 002
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 010
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-266
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 012
+Y-Achse: 004
+Z-Achse:-260
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 014
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-260
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-256
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-259
+X-Achse: 018
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 005
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-266
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 004
+Z-Achse:-263
+X-Achse: 014
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 013
+Y-Achse: 004
+Z-Achse:-264
+X-Achse: 057
+Y-Achse: 047
+Z-Achse:-249
+X-Achse: 000
+Y-Achse: 034
+Z-Achse:-325
+X-Achse: -02
+Y-Achse: -05
+Z-Achse:-258
+X-Achse: 013
+Y-Achse: -02
+Z-Achse:-255
+X-Achse: 018
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 019
+Y-Achse: 009
+Z-Achse:-258
+X-Achse: 016
+Y-Achse: 010
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 005
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-267
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-258
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 017
+Y-Achse: 005
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-265
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 011
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 019
+Y-Achse: 007
+Z-Achse:-258
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 019
+Y-Achse: 007
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 018
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-255
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 004
+Z-Achse:-266
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-264
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 013
+Y-Achse: 006
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-258
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-255
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-258
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-267
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 009
+Y-Achse: 005
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-264
+X-Achse: 013
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 010
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-255
+X-Achse: 016
+Y-Achse: 010
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-255
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 010
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-267
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 010
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-260
+X-Achse: 020
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-258
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-258
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 010
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 018
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 014
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-265
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-264
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-267
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-259
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 014
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 004
+Z-Achse:-260
+X-Achse: 014
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-266
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 008
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 014
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 014
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 004
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-258
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 006
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 010
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-269
+X-Achse: 015
+Y-Achse: 010
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 010
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-265
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 013
+Y-Achse: 012
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-264
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 004
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 010
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-264
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 014
+Y-Achse: 005
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 018
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 002
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 010
+Y-Achse: 002
+Z-Achse:-251
+X-Achse: 021
+Y-Achse: 009
+Z-Achse:-251
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-260
+X-Achse: 017
+Y-Achse: 006
+Z-Achse:-260
+X-Achse: 014
+Y-Achse: 006
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 009
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 019
+Y-Achse: 008
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-264
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 013
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 006
+Z-Achse:-264
+X-Achse: 014
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 018
+Y-Achse: 004
+Z-Achse:-266
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 015
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-264
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-266
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 014
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 011
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-256
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 005
+Z-Achse:-260
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-264
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 010
+Z-Achse:-257
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 019
+Y-Achse: 006
+Z-Achse:-257
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-260
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-267
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 004
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-257
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-259
+X-Achse: 018
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 010
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 014
+Y-Achse: 011
+Z-Achse:-258
+X-Achse: 014
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 019
+Y-Achse: 006
+Z-Achse:-255
+X-Achse: 014
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 013
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-264
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-264
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 002
+Z-Achse:-268
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-258
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-266
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 014
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-260
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 005
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-264
+X-Achse: 018
+Y-Achse: 012
+Z-Achse:-265
+X-Achse: 014
+Y-Achse: 006
+Z-Achse:-267
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-252
+X-Achse: 019
+Y-Achse: 006
+Z-Achse:-255
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 010
+Z-Achse:-252
+X-Achse: 014
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 005
+Z-Achse:-264
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 010
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 015
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 011
+Y-Achse: 003
+Z-Achse:-260
+X-Achse: 014
+Y-Achse: 008
+Z-Achse:-256
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 013
+Y-Achse: 010
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 018
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 004
+Z-Achse:-265
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 018
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-265
+X-Achse: 014
+Y-Achse: 011
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-269
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-257
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 020
+Y-Achse: 008
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 005
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-267
+X-Achse: 017
+Y-Achse: 010
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-264
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 005
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-264
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-255
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-265
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 009
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-264
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 003
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-270
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-265
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 012
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 010
+Z-Achse:-258
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 010
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 006
+Z-Achse:-266
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 010
+Z-Achse:-259
+X-Achse: 017
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 004
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-260
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-264
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 019
+Y-Achse: 007
+Z-Achse:-257
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 018
+Y-Achse: 007
+Z-Achse:-253
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 004
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 010
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 015
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 020
+Y-Achse: 007
+Z-Achse:-258
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 006
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-255
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 011
+Z-Achse:-260
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-269
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-268
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 019
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 018
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-257
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 004
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 015
+Y-Achse: 006
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 013
+Y-Achse: 007
+Z-Achse:-259
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-265
+X-Achse: 016
+Y-Achse: 010
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 003
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 014
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 010
+Z-Achse:-259
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 017
+Y-Achse: 009
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 004
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-258
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 017
+Y-Achse: 007
+Z-Achse:-264
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 010
+Y-Achse: 006
+Z-Achse:-260
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-262
+X-Achse: 018
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 019
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-266
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 007
+Z-Achse:-264
+X-Achse: 017
+Y-Achse: 010
+Z-Achse:-260
+X-Achse: 015
+Y-Achse: 010
+Z-Achse:-257
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-254
+X-Achse: 017
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 005
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 006
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-259
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-263
+X-Achse: 016
+Y-Achse: 008
+Z-Achse:-260
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-261
+X-Achse: 014
+Y-Achse: 011
+Z-Achse:-269
+X-Achse: 013
+Y-Achse: 010
+Z-Achse:-264
+X-Achse: 014
+Y-Achse: 007
+Z-Achse:-262
+X-Achse: 011
+Y-Achse: 003
+Z-Achse:-261
+X-Achse: 014
+Y-Achse: 003
+Z-Achse:-262
+X-Achse: 015
+Y-Achse: 008
+Z-Achse:-264
+X-Achse: 018
+Y-Achse: 006
+Z-Achse:-261
+X-Achse: 016
+Y-Achse: 009
+Z-Achse:-259
+X-Achse: 015
