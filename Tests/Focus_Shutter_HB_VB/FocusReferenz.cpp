@@ -4,6 +4,8 @@
 * Datum: 06.07.2015
 */
 
+#include "Arduino.h"
+
 void setup();
 void loop();
 void referenz(); //Referenzzeit Tropfen 1
