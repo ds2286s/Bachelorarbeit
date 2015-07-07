@@ -2,7 +2,7 @@ C:\Ard\Arduino\hardware\tools\avr\bin\avr-g++ -c -g -Os -w -fno-exceptions -ffun
 
 ping -n 5 127.0.0.1 >NUL
 
-C:\Ard\Arduino\hardware\tools\avr\bin\avr-gcc -w -Os -Wl,--gc-sections -mmcu=atmega32u4 -o %1.cpp.elf %1.cpp.o Skripte\Build_Skript\core.a -L -lm
+C:\Ard\Arduino\hardware\tools\avr\bin\avr-gcc -w -Os -Wl,--gc-sections -mmcu=atmega32u4 -o %1.cpp.elf %1.cpp.o !COREA!\core.a -L -lm
 ping -n 5 127.0.0.1 >NUL
 
 C:\Ard\Arduino\hardware\tools\avr\bin\avr-objcopy -O ihex -j .eeprom --set-section-flags=.eeprom=alloc,load --no-change-warnings --change-section-lma .eeprom=0 %1.cpp.elf %1.cpp.eep 
