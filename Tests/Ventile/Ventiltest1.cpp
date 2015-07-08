@@ -6,8 +6,6 @@
 
 #include "Arduino.h"
 
-void setup();
-void loop();
 void referenz(); //Referenzzeit
 void test1(); //Zeit zwischen Tropfen 1 u. 2
 
@@ -21,7 +19,7 @@ double diff2 = 25;
 
 void setup() 
 {
-  Serial.begin(9600);
+  Serial.begin(57600);
   attachInterrupt(2, referenz, RISING);
   attachInterrupt(3, test1, RISING);
 }
@@ -36,7 +34,7 @@ void referenz()
   // Timer starten; Referenzzeit Ventil 1
   if(tropfen == 0)
   {
-	Serial.print("start");
+	Serial.println("start");
 	timestamp1 = millis(); // Zeit in Sekunden
 	tropfen = 1;
   }
@@ -52,19 +50,22 @@ void test1()
 	  {
 		//Differenz zu hoch || Differenz zu niedrig -> n.b.
 		Serial.println("Test 001: failed");
-		Serial.println("erwartete Differenz: "); 
+		Serial.print("erwartete Differenz: "); 
 		Serial.print(diff1);
 		Serial.print("-");
 		Serial.print(diff2);
 		Serial.print("ms  tatsaechliche Differenz: ");
 		Serial.print((timestamp2 - timestamp1)); 
 		Serial.println("ms ");
+	        Serial.println("exit"); //Abschluss letzter Test
+
 	  }else
 	  {
 		//Test bestanden
 		Serial.println("Test 001: passed");
+	       Serial.println("exit"); //Abschluss letzter Test
+
 	  }
-	  Serial.print("exit"); //Abschluss letzter Test
 	  tropfen = 2;
   }
 }
