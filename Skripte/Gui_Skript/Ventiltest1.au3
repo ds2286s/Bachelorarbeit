@@ -40,8 +40,20 @@ MouseClick("left", 679, 108, 1)
 
 
 ;Valve 2 ab 24ms
-MouseClick("left", 496, 145, 1)
-MouseClick("left", 484, 172, 1)
+MouseClick("left", 492, 145, 1)
+MouseClick("left", 478, 180, 1)
+;Send("24")
+MouseClick("left", 575, 143, 1)
 Send("24")
-MouseClick("left", 675, 137, 1)
+MouseClick("left",680,141,1)
+
+;Connect zur DropControl
+MouseClick("left",80,113,1)
+MouseClick("left",680,141,1)
+MouseClick("left",69,141,1)
+MouseClick("left",118,112,1)
+;Transmit
+MouseClick("left",80,530,1)
+MouseClick("left",680,141,1)
+MouseClick("left",136,531,1)
 
