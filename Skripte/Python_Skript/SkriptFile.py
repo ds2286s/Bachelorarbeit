@@ -1,6 +1,6 @@
 import serial
 import sys
-filename = sys.argv[1]
+filename = sys.argv[2]
 fobj_out = open(filename,"w");
 ser = serial.Serial(sys.argv[1],57600);
 i=0;
