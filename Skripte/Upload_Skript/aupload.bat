@@ -62,7 +62,7 @@ if "%1" == "*" (
     )
 )
 
-call agetpref.bat agetpref_internal
+call ..\..\Build_Testsketches\workspace\Skripte\Upload_Skript\agetpref.bat agetpref_internal
 if not !errorlevel! == 0 (
     goto end
 )
