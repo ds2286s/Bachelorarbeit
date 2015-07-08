@@ -1,6 +1,7 @@
 import serial
 import sys
-fobj_out = open("Test.txt","w");
+filename = sys.argv[1]
+fobj_out = open(filename,"w");
 ser = serial.Serial(sys.argv[1],57600);
 i=0;
 while 1:
