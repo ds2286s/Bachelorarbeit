@@ -70,7 +70,7 @@ if not !errorlevel! == 0 (
 echo. !hexfile!
 echo. %2
 REM Übegebe dem Python-Skript den COM-PORT
-start !python!\python.exe PortReset.py %2
+start !python!\python.exe ..\..\Build_Testsketches\workspace\Skripte\Upload_Skript\PortReset.py %2
 echo. starte Python-Skript
 echo. ...
 REM Gebe dem Bootloader 2(3-1) Sekunden um zu starten
