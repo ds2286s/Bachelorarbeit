@@ -22,18 +22,23 @@ int shutter = 0;
 //Shuttertest
 double timestamp2 = 0;
 double diff1 = 1;
-double diff2 = 3;
+double diff2 = 5;
 //Hauptblitztest
 double timestamp3 = 0;
-double diff3 = 16;
-double diff4 = 18;
+double diff3 = 15;
+double diff4 = 19;
 //Vorblitztest
 double timestamp4 = 0;
-double diff5 = 11;
-double diff6 = 13;
+double diff5 = 10;
+double diff6 = 14;
+
+boolean testA = false;
+boolean testB = false;
+boolean testC = false;
+boolean testD = false;
 
 
-void setup() 
+void setup()
 {
   Serial.begin(9600);
   attachInterrupt(2, referenz, RISING);
@@ -43,109 +48,139 @@ void setup()
   attachInterrupt(1, test3, RISING);
 }
 
-void loop() 
+void loop()
 {
-  
+  if(testA==true && testB==true && testC==true && testD == true)
+  {
+    noInterrupts();
+    Serial.println("exit");
+    interrupts();
+    tropfen = 2;
+    testA = false;
+    testB = false;
+    testC = false;
+    testD = false;
+   }
 }
 
 void referenz()
 {
   if(tropfen == 0)
-  {  
-	Serial.print("start");
-	tropfen = 1;
+  {
+    noInterrupts();
+    Serial.print("start");
+    interrupts();
+    tropfen = 1;
+    timestamp1=0;
+    timestamp2=0;
+    timestamp3=0;
+    timestamp4=0;
   }
 }
 
 void referenz2()
 {
   if(tropfen == 1)
-  {  
-	if(shutter == 0)
-	{
-		  // Timer starten; Referenzzeit Focus
-		  timestamp1 = millis(); // Zeit in Sekunden
-	}else
-	{
-		test1();
-	}
+  {
+    if(shutter == 0 && testA ==false)
+    {
+        shutter = 1 ;
+        testA = true;
+        // Timer starten; Referenzzeit Focus
+        timestamp1 = millis(); // Zeit in Sekunden
+    }else if (testB == false)
+    {
+      testB = true;
+      test1();
+    }
   }
 }
 
 void test1()
 {
-	  // Zeit abmessen für Shutter
-	  timestamp2 = millis();
-	  if( (timestamp2 - timestamp1) > diff2 || (timestamp2 - timestamp1) < diff1)
-	  {
-		//Differenz zu hoch || Differenz zu niedrig -> n.b.
-		Serial.println("Test 008: failed");
-		Serial.println("erwartete Differenz: "); 
-		Serial.print(diff1);
-		Serial.print("-");
-		Serial.print(diff2);
-		Serial.print("ms  tatsaechliche Differenz: ");
-		Serial.print((timestamp2 - timestamp1)); 
-		Serial.println("ms ");
-	  }else
-	  {
-		//Test bestanden
-		Serial.println("Test 008: passed");
-	  }
+
+    // Zeit abmessen für Shutter
+    timestamp2 = millis();
+    if( (timestamp2 - timestamp1) > diff2 || (timestamp2 - timestamp1) < diff1)
+    {
+    //Differenz zu hoch || Differenz zu niedrig -> n.b.
+    noInterrupts();
+    Serial.println("Test 008: failed");
+    Serial.print("erwartete Differenz: ");
+    Serial.print(diff1);
+    Serial.print("-");
+    Serial.print(diff2);
+    Serial.print("ms  tatsaechliche Differenz: ");
+    Serial.print((timestamp2 - timestamp1));
+    Serial.println("ms ");
+    interrupts();
+    }else
+    {
+    //Test bestanden
+    noInterrupts();
+    Serial.println("Test 008: passed");
+    interrupts();
+    }
 }
 
 
 void test2()
 {
-	if(tropfen == 1 )
-	{	
-	  // Zeit abmessen für Focus
-	  timestamp3 = millis();
-	  if( (timestamp3 - timestamp1) > diff4 || (timestamp3 - timestamp1) < diff3)
-	  {
-		//Differenz zu hoch || Differenz zu niedrig -> n.b.
-		Serial.println("Test 009: failed");
-		Serial.println("erwartete Differenz: "); 
-		Serial.print(diff1);
-		Serial.print("-");
-		Serial.print(diff2);
-		Serial.print("ms  tatsaechliche Differenz: ");
-		Serial.print((timestamp3 - timestamp1)); 
-		Serial.println("ms ");
-	  }else
-	  {
-		//Test bestanden
-		Serial.println("Test 009: passed");
-	  }
-	}
+  if(tropfen == 1 && testC == false)
+  {
+   testC = true;
+    // Zeit abmessen für Focus
+    timestamp3 = millis();
+    if( (timestamp3 - timestamp1) > diff4 || (timestamp3 - timestamp1) < diff3)
+    {
+    //Differenz zu hoch || Differenz zu niedrig -> n.b.
+    noInterrupts();
+    Serial.println("Test 009: failed");
+    Serial.print("erwartete Differenz: ");
+    Serial.print(diff1);
+    Serial.print("-");
+    Serial.print(diff2);
+    Serial.print("ms  tatsaechliche Differenz: ");
+    Serial.print((timestamp3 - timestamp1));
+    Serial.println("ms ");
+    interrupts();
+    }else
+    {
+    //Test bestanden
+    noInterrupts();
+    Serial.println("Test 009: passed");
+    interrupts();
+    }
+  }
 }
 
 
 void test3()
 {
-	if(tropfen == 1)
-	{	
-	  // Zeit abmessen für Hauptblitz
-	  timestamp4 = millis();
-	  if( (timestamp4 - timestamp1) > diff6 || (timestamp4 - timestamp1) < diff5)
-	  {
-		//Differenz zu hoch || Differenz zu niedrig -> n.b.
-		Serial.println("Test 010: failed");
-		Serial.println("erwartete Differenz: "); 
-		Serial.print(diff1);
-		Serial.print("-");
-		Serial.print(diff2);
-		Serial.print("ms  tatsaechliche Differenz: ");
-		Serial.print((timestamp4 - timestamp1)); 
-		Serial.println("ms ");
-	  }else
-	  {
-		//Test bestanden
-		Serial.println("Test 010: passed");
-	  }
-	  Serial.print("exit"); //Abschluss letzter Test
-	  tropfen = 2;
-	} 
+  if(tropfen == 1 && testD == false)
+  {
+    testD = true;
+    // Zeit abmessen für Hauptblitz
+    timestamp4 = millis();
+    if( (timestamp4 - timestamp1) > diff6 || (timestamp4 - timestamp1) < diff5)
+    {
+    //Differenz zu hoch || Differenz zu niedrig -> n.b.
+    noInterrupts();
+    Serial.println("Test 010: failed");
+    Serial.print("erwartete Differenz: ");
+    Serial.print(diff1);
+    Serial.print("-");
+    Serial.print(diff2);
+    Serial.print("ms  tatsaechliche Differenz: ");
+    Serial.print((timestamp4 - timestamp1));
+    Serial.println("ms ");
+    interrupts();
+    }else
+    {
+    //Test bestanden
+    noInterrupts();
+    Serial.println("Test 010: passed");
+    interrupts();
+    }
+  }
 }
-
-
