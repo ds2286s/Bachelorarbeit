@@ -18,6 +18,7 @@ int tropfen = 0;
 double timestamp2 = 0;
 double diff1 = 1;
 double diff2 = 3;
+boolean ref = false;
 
 void setup() 
 {
@@ -34,11 +35,14 @@ void loop()
 void referenz()
 {
   // Timer starten; Referenzzeit Ventil 1
-  if(tropfen == 0)
+  if(tropfen == 0 && ref == false)
   {
-	Serial.print("start");
-	timestamp1 = millis(); // Zeit in Sekunden
-	tropfen = 1;
+    ref = true;
+  noInterrupts();  
+  Serial.println("start");
+  interrupts();
+  timestamp1 = millis(); // Zeit in Sekunden
+  tropfen = 1;
   }
 }
 
@@ -46,25 +50,34 @@ void test1()
 {
   if(tropfen == 1)
   {
-	  // Zeit abmessen für Ventil 2
-	  timestamp2 = millis();
-	  if( (timestamp2 - timestamp1) > diff2 || (timestamp2 - timestamp1) < diff1)
-	  {
-		//Differenz zu hoch || Differenz zu niedrig -> n.b.
-		Serial.println("Test 003: failed");
-		Serial.println("erwartete Differenz: "); 
-		Serial.print(diff1);
-		Serial.print("-");
-		Serial.print(diff2);
-		Serial.print("ms  tatsaechliche Differenz: ");
-		Serial.print((timestamp2 - timestamp1)); 
-		Serial.println("ms ");
-	  }else
-	  {
-		//Test bestanden
-		Serial.println("Test 003: passed");
-	  }
-	  Serial.print("exit"); //Abschluss letzter Test
-	  tropfen = 2;
+    // Zeit abmessen für Ventil 2
+    timestamp2 = millis();
+    if( (timestamp2 - timestamp1) > diff2 || (timestamp2 - timestamp1) < diff1)
+    {
+    //Differenz zu hoch || Differenz zu niedrig -> n.b.
+    noInterrupts();  
+    Serial.println("Test 003: failed");
+    Serial.print("erwartete Differenz: "); 
+    Serial.print(diff1);
+    Serial.print("-");
+    Serial.print(diff2);
+    Serial.print("ms  tatsaechliche Differenz: ");
+    Serial.print((timestamp2 - timestamp1)); 
+    Serial.println("ms ");
+    interrupts();
+    }else
+    {
+    //Test bestanden
+    noInterrupts(); 
+    Serial.println("Test 003: passed");
+    Serial.print("tatsaechliche Differenz: ");
+    Serial.print((timestamp2 - timestamp1)); 
+    Serial.println("ms ");
+    interrupts();
+    }
+    noInterrupts(); 
+    Serial.print("exit"); //Abschluss letzter Test
+    interrupts();
+    tropfen = 2;
   }
 }

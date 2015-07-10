@@ -3,12 +3,11 @@
 * Testfallname: Shuttertest, Focustest, Hauptblitztest, Vorblitztest
 * Datum: 06.07.2015
 */
-
 #include "Arduino.h"
-//#define __vector_7
 
-void setup();
 void loop();
+void setup();
+
 void referenz(); //Referenzzeit
 void test1(); //Zeit zwischen Tropfen 1 u. Shutter
 void test2(); // Zeit zwischen Tropfen 1 u. Focus
@@ -41,12 +40,16 @@ boolean testB = false;
 boolean testC = false;
 boolean testD = false;
 boolean testE = false;
-
+boolean ref = false;
 
 
 void setup() 
 {
   Serial.begin(57600);
+
+ EICRB |= (1<<ISC60)|(1<<ISC61);
+    EIMSK |= (1<<INT6);
+  
   attachInterrupt(2, referenz, RISING);
   attachInterrupt(4, test1, RISING);
 // attachInterrupt(4, test2, RISING); Shutter interrupt liegt auf Focus interrupt
@@ -57,7 +60,7 @@ void setup()
 
 void loop() 
 {
-  if(testA==true && testB==true && testC==true && testD==true)
+  if(testA==true && testB==true && testC==true && testD==true )
   {
     noInterrupts();
     Serial.println("exit");
@@ -72,18 +75,19 @@ void loop()
 
 void referenz()
 {
+
   // Timer starten; Referenzzeit Ventil 1
-  if(tropfen == 0)
+  if(tropfen == 0 && ref == false)
   {
-   tropfen = 1;     
+    ref = true;     
     noInterrupts();
-         Serial.println("start");
-         interrupts();
-	     
-         timestamp2=0;
-         timestamp3=0;
-         timestamp4=0;
-	 timestamp1 = millis(); // Zeit in Sekunden
+    Serial.println("start");
+    interrupts();     
+    timestamp2=0;
+    timestamp3=0;
+    timestamp4=0;
+    tropfen = 1;
+	  timestamp1 = millis(); // Zeit in Sekunden
   }	 
   
 }
@@ -116,6 +120,9 @@ void test1()
 				 //Test bestanden
 				 noInterrupts();
 				 Serial.println("Test 005: passed");
+         Serial.print("tatsaechliche Differenz: ");
+       Serial.print((timestamp2 - timestamp1)); 
+        Serial.println("ms ");
 				 interrupts();
 			}                
 		 }else
@@ -150,6 +157,9 @@ void test2()
 		//Test bestanden
                 noInterrupts();
 		Serial.println("Test 004: passed");
+   Serial.print("tatsaechliche Differenz: ");
+   Serial.print((timestamp3 - timestamp1)); 
+    Serial.println("ms ");
                 interrupts();
 	  }
 }
@@ -181,6 +191,9 @@ void test3()
 			 //Test bestanden
              noInterrupts();
 			 Serial.println("Test 006: passed");
+       Serial.print("tatsaechliche Differenz: ");
+      Serial.print((timestamp4 - timestamp1)); 
+       Serial.println("ms ");
              interrupts();
 		 }
 	 }	 
@@ -213,6 +226,9 @@ void test4()
 			 //Test bestanden
                          noInterrupts();
 			 Serial.println("Test 007: passed");
+       Serial.print("tatsaechliche Differenz: ");
+      Serial.print((timestamp5 - timestamp1)); 
+       Serial.println("ms ");
                          interrupts();
 		 }
 	 }	 
