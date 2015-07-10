@@ -63,5 +63,6 @@ MouseClick("left",246,412,1)
 ;Transmit
 MouseClick("left",80,530,1)
 MouseClick("left",136,531,1)
-
-
+;CloseWindow
+Sleep(5000)
+MouseClick("left",733,6,1)
