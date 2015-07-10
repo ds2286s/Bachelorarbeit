@@ -4,11 +4,7 @@
 ; AutoIt Version: 3.0
 ; Language:       English
 ; Platform:       Win9x/NT
-; Author:         Jonathan Bennett (jon at autoitscript dot com)
-;
-; Script Function:
-;   Plays with the calculator.
-;
+; Author:         Dennis Stolp
 
 
 Run("C:\Users\Dennis\Google Drive\SynchroArbeit_Studium\BachelorThesisCI\DropControl\Applikation\DropControl.exe")
@@ -47,12 +43,13 @@ MouseClick("left", 575, 143, 1)
 Send("10000")
 MouseClick("left",680,141,1)
 
+
 ;Connect zur DropControl
 MouseClick("left",80,113,1)
 MouseClick("left",680,141,1)
 MouseClick("left",69,141,1)
 MouseClick("left",118,112,1)
-MouseClick("left",246,412,1)
+MouseClick("left",246,412,2)
 ;Transmit
 MouseClick("left",80,530,1)
 MouseClick("left",136,531,1)
