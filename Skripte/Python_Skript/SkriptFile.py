@@ -24,10 +24,12 @@ timeout = time.time() + 60
 while 1:
     string = ser.readline().decode("utf-8");
     if(find_str(string,"start")!=-1):
-        while (find_str(string,"exit")==-1 and time.time() < timeout):
+        while (find_str(string,"exit")==-1):
             string = ser.readline().decode("utf-8");
             if (string != 'exit\r\n'):
                 fobj_out.write(string);
+            if time.time()>timeout:
+                break;
         break;
 
 fobj_out.close();
