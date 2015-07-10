@@ -21,15 +21,13 @@ fobj_out = open(filename,"w");
 ser = serial.Serial(sys.argv[1],57600);
 i=0;
 timeout = time.time() + 60 
-while 1:
+while time.time()>timeout:
     string = ser.readline().decode("utf-8");
     if(find_str(string,"start")!=-1):
         while (find_str(string,"exit")==-1):
             string = ser.readline().decode("utf-8");
             if (string != 'exit\r\n'):
                 fobj_out.write(string);
-            if time.time()>timeout:
-                break;
         break;
 
 fobj_out.close();
