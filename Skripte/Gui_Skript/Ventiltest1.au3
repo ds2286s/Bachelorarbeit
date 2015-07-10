@@ -31,7 +31,9 @@ WinMove($hWnd, "", 0, 0, 768, 592)
 ;WinWaitClose("[CLASS:CalcFrame]")
 
 ; Finished!
-
+;Deactivate Vsync and F2=F1
+MouseClick("left", 222, 143, 1)
+MouseClick("left", 337, 213, 1)
 
 ;Valve 1 Länge 1ms
 MouseClick("left", 491, 120, 1)
