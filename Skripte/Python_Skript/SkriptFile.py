@@ -18,7 +18,7 @@ def find_str(s, char):
 
 filename = sys.argv[2]
 fobj_out = open(filename,"w");
-ser = serial.Serial(sys.argv[1],57600);
+ser = serial.Serial(sys.argv[1],57600, timeout=5);
 i=0;
 timeout = time.time() + 60 
 while time.time()<timeout:
