@@ -7,7 +7,7 @@ IF ERRORLEVEL %2 (
   ECHO Error
 ) ELSE (
 	 set /A counter=%counter%+1
-	if %counter%  gtr 15 (
+	if %counter%  gtr 5 (
 		GOTO exit
 	)
   ECHO ...
