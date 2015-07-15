@@ -35,9 +35,9 @@ testsuite = ET.SubElement(root, "testsuite", name="Test",tests="2",failures="1",
 
 while (i<len(lst)):
 
-    if(find_str(lst[i],"Test")):
+    if(find_str(lst[i],"Test")!=-1):
         print (lst[i-1])
-        classNameTest = lst[i-1]
+        classNameTest = lst[i]
         if (find_str(lst[i],"failed")!=-1):
             fail=ET.SubElement(testsuite,"testcase",classname=output,name =classNameTest, status="run",time ="0");
             failedContent ="";
