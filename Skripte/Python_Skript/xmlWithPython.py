@@ -36,22 +36,20 @@ testsuite = ET.SubElement(root, "testsuite", name="Test",tests="2",failures="1",
 while (i<len(lst)):
 
     if(find_str(lst[i],"Test")):
-        i=i-1
-        print (lst[i])
-        classNameTest = lst[i]
-        if (find_str(lst[i-1],"failed")!=-1):
-            i=i-1
+        print (lst[i-1])
+        classNameTest = lst[i-1]
+        if (find_str(lst[i],"failed")!=-1):
             fail=ET.SubElement(testsuite,"testcase",classname=output,name =classNameTest, status="run",time ="0");
             failedContent ="";
             while(i+j <len(lst) and find_str(lst[i+j],"Test")==-1):
                 failedContent+=lst[i+j];
                 j=j+1;
+            i=i+j-1;
             j=1;
             failure=ET.SubElement(fail,"failure",typ=failedContent);
             failure.text=lst[i];
             failedContent ="";
         else:
-            i=i-1
             ET.SubElement(testsuite,"testcase",classname=output, name=classNameTest, status="run",time ="0");
     i=i+1;
 
