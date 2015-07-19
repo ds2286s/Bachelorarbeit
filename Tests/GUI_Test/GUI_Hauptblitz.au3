@@ -8,8 +8,13 @@ Local $hWnd = WinWait("[CLASS:WindowsForms10.Window.8.app.0.2bf8098_r11_ad1]", "
 ;WinMove ( "DropControl", "text", 500, 500)
 WinMove($hWnd, "", 0, 0, 768, 592)
 
-ControlSetText("DropControl", "", "[CLASS:WindowsForms10.EDIT.app.0.2bf8098_r11_ad1; INSTANCE:4]","-1")
-MouseClick("left", 679, 108, 2)
+;Deactivate Vsync and F2=F1
+MouseClick("left", 222, 143, 1)
+MouseClick("left", 337, 213, 1)
+
+MouseClick("left", 233, 212, 2)
+Send("-1")
+MouseClick("left", 452, 184, 1)
 $tmp= ControlGetText("DropControl","","[CLASS:WindowsForms10.EDIT.app.0.2bf8098_r11_ad1; INSTANCE:4]")
 If $tmp = "0" Then
   MouseClick("left", 679, 108, 4)
@@ -18,8 +23,9 @@ ElseIf $tmp ="" Then
  EndIf
 
 
- ControlSetText("DropControl", "", "[CLASS:WindowsForms10.EDIT.app.0.2bf8098_r11_ad1; INSTANCE:4]","1")
-MouseClick("left", 679, 108, 2)
+MouseClick("left", 233, 212, 2)
+Send("1")
+MouseClick("left", 452, 184, 1)
 $tmp= ControlGetText("DropControl","","[CLASS:WindowsForms10.EDIT.app.0.2bf8098_r11_ad1; INSTANCE:4]")
 If $tmp = "1" Then
   MouseClick("left", 679, 108, 4)
@@ -28,10 +34,11 @@ ElseIf $tmp ="" Then
  EndIf
 
 
-ControlSetText("DropControl", "", "[CLASS:WindowsForms10.EDIT.app.0.2bf8098_r11_ad1; INSTANCE:4]","10001")
-MouseClick("left", 679, 108, 2)
+MouseClick("left", 233, 212, 2)
+Send("10001")
+MouseClick("left", 452, 184, 1)
 $tmp= ControlGetText("DropControl","","[CLASS:WindowsForms10.EDIT.app.0.2bf8098_r11_ad1; INSTANCE:4]")
-If $tmp = "10000" Then
+If $tmp = "10.000" Then
   MouseClick("left", 679, 108, 4)
 ElseIf $tmp ="" Then
  	 Exit(1)
