@@ -55,11 +55,18 @@ void setup()
 // attachInterrupt(4, test2, RISING); Shutter interrupt liegt auf Focus interrupt
   attachInterrupt(0, test3, RISING);
   attachInterrupt(1, test4, RISING);
-
+  pinMode(6,INPUT);
 }
-
+int ctr=0;
 void loop() 
 {
+  
+  if(digitalRead(6)==LOW && ref &&ctr <2){
+    ctr = ctr+1;
+    test1();
+  }
+
+  
   if(testA==true && testB==true && testC==true && testD==true )
   {
     noInterrupts();

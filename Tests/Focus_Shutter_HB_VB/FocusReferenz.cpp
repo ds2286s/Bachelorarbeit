@@ -31,7 +31,7 @@ double diff4 = 19;
 double timestamp4 = 0;
 double diff5 = 10;
 double diff6 = 14;
-
+int  ctr = 0;
 boolean testA = false;
 boolean testB = false;
 boolean testC = false;
@@ -51,6 +51,13 @@ void setup()
 
 void loop() 
 {
+	 if(digitalRead(6)==LOW && ref &&ctr <2){
+		ctr = ctr+1;
+		referenz2();
+	}
+
+	
+	
   if(testA==true && testB==true && testC==true && testD == true)
   {
     noInterrupts();
