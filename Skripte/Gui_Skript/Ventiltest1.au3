@@ -49,6 +49,13 @@ MouseClick("left", 575, 143, 1)
 Send("24")
 MouseClick("left",680,141,1)
 
+;HB und VB
+MouseClick("left",233,214,2)
+Send("25")
+MouseClick("left",238,255,2)
+Send("25")
+
+
 ;Connect zur DropControl
 MouseClick("left",80,113,1)
 MouseClick("left",680,141,1)

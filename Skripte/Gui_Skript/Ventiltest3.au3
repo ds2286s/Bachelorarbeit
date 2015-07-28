@@ -28,7 +28,11 @@ WinMove($hWnd, "", 0, 0, 768, 592)
 ;WinWaitClose("[CLASS:CalcFrame]")
 
 ; Finished!
-
+;HB und VB
+MouseClick("left",233,214,2)
+Send("25")
+MouseClick("left",238,255,2)
+Send("25")
 ;Deactivate Vsync and F2=F1
 MouseClick("left", 222, 143, 1)
 MouseClick("left", 337, 213, 1)
