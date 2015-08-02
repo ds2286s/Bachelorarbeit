@@ -1,12 +1,12 @@
-$dc =Run("C:\Users\Dennis\Google Drive\SynchroArbeit_Studium\BachelorThesisCI\DropControl\Applikation\DropControl.exe")
+;$dc =Run("C:\Users\Dennis\Google Drive\SynchroArbeit_Studium\BachelorThesisCI\DropControl\Applikation\DropControl.exe")
 
 
 Local $string ="0"
 
-Sleep(2000)
-Local $hWnd = WinWait("[CLASS:WindowsForms10.Window.8.app.0.2bf8098_r11_ad1]", "", 5)
+;Sleep(2000)
+;Local $hWnd = WinWait("[CLASS:WindowsForms10.Window.8.app.0.2bf8098_r11_ad1]", "", 5)
 ;WinMove ( "DropControl", "text", 500, 500)
-WinMove($hWnd, "", 0, 0, 768, 592)
+;WinMove($hWnd, "", 0, 0, 768, 592)
 
 ;Deactivate Vsync and F2=F1
 MouseClick("left", 222, 143, 1)

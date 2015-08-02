@@ -11,12 +11,12 @@
 ;
 
 
-Run("C:\Users\Dennis\Google Drive\SynchroArbeit_Studium\BachelorThesisCI\DropControl\Applikation\DropControl.exe")
+;Run("C:\Users\Dennis\Google Drive\SynchroArbeit_Studium\BachelorThesisCI\DropControl\Applikation\DropControl.exe")
 
-Sleep(2000)
-Local $hWnd = WinWait("[CLASS:WindowsForms10.Window.8.app.0.2bf8098_r11_ad1]", "", 5)
+;Sleep(2000)
+;Local $hWnd = WinWait("[CLASS:WindowsForms10.Window.8.app.0.2bf8098_r11_ad1]", "", 5)
 ;WinMove ( "DropControl", "text", 500, 500)
-WinMove($hWnd, "", 0, 0, 768, 592)
+;WinMove($hWnd, "", 0, 0, 768, 592)
 
 ; Now that the calculator window is active type the values 2 x 4 x 8 x 16
 ; Use AutoItSetOption to slow down the typing speed so we can see it
